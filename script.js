@@ -1,6 +1,6 @@
 
 /*
-  IRONVAULT FITNESS WEBSITE
+  ASPIRE DIVA GYM WEBSITE
   IMPORTANT:
   Replace the sample WhatsApp number below with the gym's real number.
   Include country code 91 for India, without +, spaces or dashes.
