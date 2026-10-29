@@ -6,7 +6,7 @@
   Include country code 91 for India, without +, spaces or dashes.
 */
 
-const GYM_WHATSAPP_NUMBER = "91XXXXXXXXXX";
+const GYM_WHATSAPP_NUMBER = "918136078937";
 
 const menuToggle = document.getElementById("menuToggle");
 const nav = document.getElementById("nav");
